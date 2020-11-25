@@ -1,0 +1,58 @@
+
+
+body {
+    background-color: #999;
+    color: black;
+}
+
+a,
+a:active,
+a:hover,
+a:visited {
+    color: white;
+}
+
+table {
+    width: 670px;
+    border: none;
+    margin: 2pt;
+    padding: 2pt;
+    background-color: white;
+}
+
+#kozep {
+    text-align: center;
+}
+
+table tr td {
+    text-align: center;
+}
+
+#belso {
+    width: 650px;
+    border: none;
+    color: white;
+}
+
+#belso tr td {
+    background-color: #485808;
+    height: 60pt;
+    margin: 2pt;
+    padding: 2pt;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+#belso tr td:last-child {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#bal {
+    text-align: left;
+}
+papir.css
+papir.css megjelenítése.
